@@ -19,10 +19,13 @@ Predicting wine quality is crucial for both consumers and producers, as it can p
 
 The project repository is organized as follows:
 
-### data: Contains the dataset used for training and testing the models.
-### notebooks: Jupyter notebooks detailing the data preprocessing, model training, and evaluation processes.
-### src: Python scripts implementing the Random Forest and Decision Tree classifiers.
-### results: Contains visualizations, graphs, and model performance metrics.
+data: Contains the dataset used for training and testing the models.
+
+notebooks: Jupyter notebooks detailing the data preprocessing, model training, and evaluation processes.
+
+src: Python scripts implementing the Random Forest and Decision Tree classifiers.
+
+results: Contains visualizations, graphs, and model performance metrics.
 
 ## Getting Started
 
