@@ -1,8 +1,8 @@
-Wine Quality Prediction using Machine Learning
+# Wine Quality Prediction using Machine Learning
 
 This project focuses on predicting the quality of wines based on their composition using advanced machine learning techniques. Two powerful classifiers, namely the Random Forest Classifier and the Decision Tree Classifier, were employed to develop predictive models for this purpose.
 
-Project Overview
+## Project Overview
 The main goal of this project is to accurately predict the quality of wines using features related to their composition. The project utilizes two prominent machine learning algorithms, the Random Forest Classifier and the Decision Tree Classifier, to create predictive models. These models are trained on a dataset containing wine samples along with their associated quality ratings.
 
 Key Results
